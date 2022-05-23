@@ -14,7 +14,7 @@ contract Demo {
     uint public balance;
 
     function pay() external payable {
-        balances += msg.value;
+        balance += msg.value;
     }
 
     fallback() external payable {

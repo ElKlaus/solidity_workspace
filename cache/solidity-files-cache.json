@@ -35,6 +35,76 @@
       "artifacts": [
         "Payments"
       ]
+    },
+    "/mnt/f/domains1/solidity_workspace/contracts/lesson6.sol": {
+      "lastModificationDate": 1653294571025,
+      "contentHash": "d39a8b6fa315061a99f1355dd4073d2d",
+      "sourceName": "contracts/lesson6.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Demo"
+      ]
+    },
+    "/mnt/f/domains1/solidity_workspace/contracts/Demo1.sol": {
+      "lastModificationDate": 1653295860977,
+      "contentHash": "968658df0eb8e621f57867f08dab665f",
+      "sourceName": "contracts/Demo1.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Demo1"
+      ]
     }
   }
 }
